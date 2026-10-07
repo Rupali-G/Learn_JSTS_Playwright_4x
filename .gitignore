@@ -1,0 +1,16 @@
+target/
+test-output/
+*.class
+*.log
+
+node_modules/
+playwright-report/
+test-results/
+
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+~$*
+*.tmp
